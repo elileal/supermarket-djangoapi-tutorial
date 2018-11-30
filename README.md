@@ -33,3 +33,9 @@ This tutorial will go throw some steps of how to create a simple Rest API using 
     ```
     $ docker-compose up --build
     ```
+1. References
+    https://blog.restcase.com/restful-api-authentication-basics/
+    https://www.django-rest-framework.org/
+    https://tableless.com.br/entendendo-tokens-jwt/
+    https://testdriven.io/dockerizing-django-with-postgres-gunicorn-and-nginx
+    https://www.getpostman.com/
