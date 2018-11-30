@@ -35,9 +35,9 @@ This tutorial will go throw some steps of how to create a simple Rest API using 
     ```
 1. References
 
-    https://blog.restcase.com/restful-api-authentication-basics/
-    https://www.django-rest-framework.org/
-    https://tableless.com.br/entendendo-tokens-jwt/
-    https://testdriven.io/dockerizing-django-with-postgres-gunicorn-and-nginx
-    https://www.getpostman.com/
+    https://blog.restcase.com/restful-api-authentication-basics/  
+    https://www.django-rest-framework.org/  
+    https://tableless.com.br/entendendo-tokens-jwt/  
+    https://testdriven.io/dockerizing-django-with-postgres-gunicorn-and-nginx  
+    https://www.getpostman.com/  
     https://medium.com/@marcosrabaioli/django-rest-framework-e-django-oauth-toolkit-c71f8920db08
